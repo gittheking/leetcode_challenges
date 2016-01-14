@@ -2,7 +2,7 @@
 I've created this repository for the purpose of storing and/or showcasing the code I've written/currently working on for [leetcode.com's](http://leetcode.com) coding challenges.
 
 ## Completed challenges so far:
-- Nim Game
+- [Nim Game](https://github.com/gittheking/leetcode_challenges/blob/master/nim_game.js)
 - Add Digits
 - Delete Node in a Linked List 
 - Move Zeros
