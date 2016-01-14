@@ -4,7 +4,7 @@ I've created this repository for the purpose of storing and/or showcasing the co
 ## Completed challenges so far:
 - [Nim Game](https://github.com/gittheking/leetcode_challenges/blob/master/nim_game.js)
 - [Add Digits](https://github.com/gittheking/leetcode_challenges/blob/master/add_digits.js)
-- Delete Node in a Linked List 
+- [Delete Node in a Linked List](https://github.com/gittheking/leetcode_challenges/blob/master/ll_delete_node.js) 
 - Move Zeros
 - Contians Duplicate
 - Number of 1 bits
