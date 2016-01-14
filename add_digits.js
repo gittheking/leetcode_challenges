@@ -8,7 +8,7 @@
 **	@param {number} num
 **	@return {number}
 */
-var addDigits = function (num) {
+var addDigits = function(num) {
 	var	nums, sum;
 	// Converting num to a string value
 	num = num.toString();
