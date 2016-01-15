@@ -6,12 +6,11 @@
 **	Note:
 **	You must do this in-place without making a copy of the array.
 **	Minimize the total number of operations.
-*/
-
-/*
+**
 **	@param {number[]} nums
 **	@return {void}
 */
+
 var moveZeroes = function(nums) {
 	var count = 0;
 	var i = 0;
