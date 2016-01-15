@@ -7,7 +7,7 @@ I've created this repository for the purpose of storing and/or showcasing the co
 - [Delete Node in a Linked List](https://github.com/gittheking/leetcode_challenges/blob/master/javascript/ll_delete_node.js) 
 - [Move Zeros](https://github.com/gittheking/leetcode_challenges/blob/master/javascript/move_zeros.js)
 - [Contians Duplicate](https://github.com/gittheking/leetcode_challenges/blob/master/javascript/contains_duplicate.js)
-- Number of 1 bits
+- [Number of 1 bits](https://github.com/gittheking/leetcode_challenges/blob/master/javascript/number_of_1_bits.js)
 - Pascal's Triangle
 - Reverse Bits
 - Rotate Array
