@@ -10,4 +10,4 @@ I've created this repository for the purpose of storing and/or showcasing the co
 - [Number of 1 bits](https://github.com/gittheking/leetcode_challenges/blob/master/javascript/number_of_1_bits.js)
 - [Pascal's Triangle](https://github.com/gittheking/leetcode_challenges/blob/master/javascript/pascals_triangle.js)
 - [Reverse Bits](https://github.com/gittheking/leetcode_challenges/blob/master/javascript/reverse_bits.js)
-- Rotate Array
+- [Rotate Array](https://github.com/gittheking/leetcode_challenges/blob/master/javascript/rotate_array.js)
